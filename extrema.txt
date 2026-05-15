@@ -1,0 +1,80 @@
+=== P01 ===
+  [Kadane] max-sum subarray x[4..5] = [-0.500000, 10.000000]  sum=207.187500
+  [PrefixSum] total sum over all x = -659.826876
+  [LIS-run] longest increasing run length=4  x_indices=[-2.000000, 3.140000, -0.500000, 10.000000]
+
+=== P02 ===
+  [Kadane] max-sum subarray x[0..9] = [0.000000, -3.330000]  sum=50.000000
+  [PrefixSum] total sum over all x = 50.000000
+  [LIS-run] longest increasing run length=1  x_indices=[0.000000]
+
+=== P04 ===
+  [Kadane] max-sum subarray x[0..9] = [0.000000, -3.330000]  sum=68.776800
+  [PrefixSum] total sum over all x = 68.776800
+  [LIS-run] longest increasing run length=2  x_indices=[1.500000, -2.000000]
+
+=== P05 ===
+  [Kadane] max-sum subarray x[3..5] = [3.140000, 10.000000]  sum=103421.395958
+  [PrefixSum] total sum over all x = 146.997075
+  [LIS-run] longest increasing run length=3  x_indices=[-10.000000, 0.001000, 2.718000]
+
+=== P06 ===
+  [Kadane] max-sum subarray x[0..9] = [0.000000, -3.330000]  sum=5073.968982
+  [PrefixSum] total sum over all x = 5073.968982
+  [LIS-run] longest increasing run length=4  x_indices=[0.000000, 1.500000, -2.000000, 3.140000]
+
+=== P07 ===
+  [Kadane] max-sum subarray x[0..0] = [0.000000, 0.000000]  sum=-9.000000
+  [PrefixSum] total sum over all x = -90.000000
+  [LIS-run] longest increasing run length=1  x_indices=[0.000000]
+
+=== P09 ===
+  [Kadane] max-sum subarray x[6..9] = [-10.000000, -3.330000]  sum=963.791747
+  [PrefixSum] total sum over all x = -1.717397
+  [LIS-run] longest increasing run length=2  x_indices=[0.000000, 1.500000]
+
+=== P10 ===
+  [Kadane] max-sum subarray x[0..5] = [0.000000, 10.000000]  sum=10.070000
+  [PrefixSum] total sum over all x = 7.431167
+  [LIS-run] longest increasing run length=3  x_indices=[-10.000000, 0.001000, 2.718000]
+
+=== P11 ===
+  [Kadane] max-sum subarray x[6..9] = [-10.000000, -3.330000]  sum=73142.156176
+  [PrefixSum] total sum over all x = -46.030993
+  [LIS-run] longest increasing run length=3  x_indices=[0.000000, 1.500000, -2.000000]
+
+=== P12 ===
+  [Kadane] max-sum subarray x[0..0] = [0.000000, 0.000000]  sum=0.000000
+  [PrefixSum] total sum over all x = 0.000000
+  [LIS-run] longest increasing run length=1  x_indices=[0.000000]
+
+=== P13 ===
+  [Kadane] max-sum subarray x[0..9] = [0.000000, -3.330000]  sum=760.624075
+  [PrefixSum] total sum over all x = 760.624075
+  [LIS-run] longest increasing run length=2  x_indices=[0.000000, 1.500000]
+
+=== P15 ===
+  [Kadane] max-sum subarray x[0..5] = [0.000000, 10.000000]  sum=1160.708744
+  [PrefixSum] total sum over all x = 255.727422
+  [LIS-run] longest increasing run length=3  x_indices=[-10.000000, 0.001000, 2.718000]
+
+=== P16 ===
+  [Kadane] max-sum subarray x[6..9] = [-10.000000, -3.330000]  sum=74.277000
+  [PrefixSum] total sum over all x = -10.703000
+  [LIS-run] longest increasing run length=2  x_indices=[1.500000, -2.000000]
+
+=== P17 ===
+  [Kadane] max-sum subarray x[0..9] = [0.000000, -3.330000]  sum=142.290015
+  [PrefixSum] total sum over all x = 142.290015
+  [LIS-run] longest increasing run length=4  x_indices=[0.000000, 1.500000, -2.000000, 3.140000]
+
+=== P18 ===
+  [Kadane] max-sum subarray x[0..9] = [0.000000, -3.330000]  sum=1000.000000
+  [PrefixSum] total sum over all x = 1000.000000
+  [LIS-run] longest increasing run length=1  x_indices=[0.000000]
+
+=== P20 ===
+  [Kadane] max-sum subarray x[0..9] = [0.000000, -3.330000]  sum=122683.200671
+  [PrefixSum] total sum over all x = 122683.200671
+  [LIS-run] longest increasing run length=4  x_indices=[0.000000, 1.500000, -2.000000, 3.140000]
+
