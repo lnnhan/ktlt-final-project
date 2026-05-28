@@ -3,7 +3,7 @@
 Dự án này là bài tập lớn môn học Kỹ thuật Lập trình, sử dụng ngôn ngữ C++ để xử lý, tính toán và phân tích các dữ liệu đa thức. Mã nguồn được thiết kế theo hướng module hóa, giúp tách biệt rõ ràng giữa các tác vụ xử lý Đọc/Ghi (I/O) và Logic tính toán (Processing).
 
 ## Tính Năng Chính
-- **Đọc Dữ Liệu:** Trích xuất các hệ số đa thức và giá trị $x$ đầu vào từ các file CSV (`polynomials-*.csv`, `x_values-*.csv`).
+- **Đọc Dữ Liệu:** Trích xuất các hệ số đa thức và giá trị $x$ đầu vào từ các file CSV (`polynomials-3.csv`, `x_values-3.csv`).
 - **Xử Lý & Tính Toán:** Đánh giá và tính toán các giá trị của đa thức tại các điểm $x$ cụ thể.
 - **Phân Tích Toán Học:** Xác định điểm cực trị của các hàm số (xuất ra file `.txt`) và đối chiếu, so sánh kết quả.
 - **Báo Cáo Kết Quả:** Tự động tổng hợp và ghi kết quả tính toán ra các tệp tin báo cáo chuẩn định dạng CSV để dễ dàng thống kê.
