@@ -28,13 +28,17 @@ Dự án được phân chia thành các module chức năng chuyên biệt đ�
    cd ktlt-final-project
 2. **Biên dịch chương trình:**
 Sử dụng lệnh sau để liên kết các file nguồn lại với nhau:
+   ``` bash
    g++ main.cpp io.cpp processing.cpp -o btl
 3. **Thực thi chương trình:**
-    ./btl
+    ```bash
+   ./btl
+    
    (Sau khi chương trình chạy xong, các tệp báo cáo như poly_report.csv, compare.csv, và extrema.txt sẽ tự động được tạo hoặc cập nhật trực tiếp tại thư mục này).
 
 ## Thông tin tác giả 
 Sinh viên thực hiện:
 - Lưu Nguyễn Ngọc Hân - MSSV: 23280055
 - Hoàng Gia Bảo - MSSV: 24280049
-Trường: Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (HCMUS)
+
+Trường: Đại học Khoa học Tự nhiên, ĐHQG-HCM (HCMUS)
