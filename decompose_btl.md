@@ -1,11 +1,8 @@
 # Decompose — BTL Đa Thức Hệ Số Phân Số
 
 > Project: Thư viện đa thức hệ số phân số & Mô phỏng quỹ đạo  
-> MSSV:
-> 
-> 23280055 - Lưu Nguyễn Ngọc Hân
-> 
-> 24280049 - Hoàng Gia Bảo  
+> Member:
+> 23280055 - Lưu Nguyễn Ngọc Hân & 24280049 - Hoàng Gia Bảo  
 > Kiến trúc: `io.h/.cpp` · `processing.h/.cpp` · `main.cpp`
 
 ---
